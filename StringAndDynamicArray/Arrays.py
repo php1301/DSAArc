@@ -14,3 +14,5 @@ if numFromArr1 < numFromArr2:
 else:
   print("NO")
   
+  
+  
